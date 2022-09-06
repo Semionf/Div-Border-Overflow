@@ -1,0 +1,8 @@
+div {
+  border: 20px solid red;
+  box-shadow: 10px 10px 10px;
+  border-radius: 15px;
+  overflow: auto;
+  width: 100px;
+  height: 200px;
+}
